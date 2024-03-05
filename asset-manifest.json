@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TextUtils/static/css/main.7499e4b8.css",
-    "main.js": "/TextUtils/static/js/main.01d24b2f.js",
-    "static/js/453.d85580f4.chunk.js": "/TextUtils/static/js/453.d85580f4.chunk.js",
-    "static/media/text_utils_bg_light.jpg": "/TextUtils/static/media/text_utils_bg_light.d40bd3ee3f891042ebdc.jpg",
-    "index.html": "/TextUtils/index.html",
-    "main.7499e4b8.css.map": "/TextUtils/static/css/main.7499e4b8.css.map",
-    "main.01d24b2f.js.map": "/TextUtils/static/js/main.01d24b2f.js.map",
-    "453.d85580f4.chunk.js.map": "/TextUtils/static/js/453.d85580f4.chunk.js.map"
+    "main.css": "/ReactTextUtilsApp/static/css/main.9d02d813.css",
+    "main.js": "/ReactTextUtilsApp/static/js/main.86ec9dcf.js",
+    "static/js/453.d85580f4.chunk.js": "/ReactTextUtilsApp/static/js/453.d85580f4.chunk.js",
+    "static/media/text_utils_bg_light.jpg": "/ReactTextUtilsApp/static/media/text_utils_bg_light.d40bd3ee3f891042ebdc.jpg",
+    "index.html": "/ReactTextUtilsApp/index.html",
+    "main.9d02d813.css.map": "/ReactTextUtilsApp/static/css/main.9d02d813.css.map",
+    "main.86ec9dcf.js.map": "/ReactTextUtilsApp/static/js/main.86ec9dcf.js.map",
+    "453.d85580f4.chunk.js.map": "/ReactTextUtilsApp/static/js/453.d85580f4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7499e4b8.css",
-    "static/js/main.01d24b2f.js"
+    "static/css/main.9d02d813.css",
+    "static/js/main.86ec9dcf.js"
   ]
 }
