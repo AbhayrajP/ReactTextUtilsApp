@@ -6,17 +6,17 @@ export default function Navbar(props) {
   return (
     <nav className={`navbar navbar-expand-lg bg-${props.mode} navbar-${props.mode}`}>
     <div className="container-fluid">
-      <Link className="navbar-brand" to="/">{props.title}</Link>
+      <Link className="navbar-brand" to="/ReactTextUtilsApp">{props.title}</Link>
       <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
       </button>
       <div className="collapse navbar-collapse" id="navbarScroll">
         <ul className="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" >
           <li className="nav-item">
-            <Link className="nav-link active" aria-current="page" to="/">Home</Link>
+            <Link className="nav-link active" aria-current="page" to="/ReactTextUtilsApp">Home</Link>
           </li>
           <li className="nav-item">
-            <Link className="nav-link" to="about">{props.aboutText}</Link>
+            <Link className="nav-link" to="/ReactTextUtilsApp/about">{props.aboutText}</Link>
           </li>
         </ul>
         {/* <form className="d-flex" role="search">

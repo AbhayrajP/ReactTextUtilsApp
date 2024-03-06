@@ -43,13 +43,13 @@ function App() {
      <Navbar title="TextUtils" aboutText="About" mode={mode} toggleModeClick={toggleMode}></Navbar>
      <Alert alert={alert} />
       <Routes>
-        <Route path="/" element={ 
+        <Route path="/ReactTextUtilsApp" element={ 
            <div className="container my-3">
       
            <TextForm showAlert={showAlert} heading="Enter your input below" mode={mode}/>
          </div>
         } />
-        <Route path="about" element={ <About/> } />
+        <Route path="/ReactTextUtilsApp/about" element={ <About/> } />
       </Routes>
     </div>
     
