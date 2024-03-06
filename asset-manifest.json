@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ReactTextUtilsApp/static/css/main.9d02d813.css",
-    "main.js": "/ReactTextUtilsApp/static/js/main.d1d88b80.js",
+    "main.js": "/ReactTextUtilsApp/static/js/main.e70a47f4.js",
     "static/js/453.d85580f4.chunk.js": "/ReactTextUtilsApp/static/js/453.d85580f4.chunk.js",
     "static/media/text_utils_bg_dark.jpg": "/ReactTextUtilsApp/static/media/text_utils_bg_dark.f35d9900a1fabcd7de98.jpg",
     "static/media/text_utils_bg_light.jpg": "/ReactTextUtilsApp/static/media/text_utils_bg_light.d40bd3ee3f891042ebdc.jpg",
     "index.html": "/ReactTextUtilsApp/index.html",
     "main.9d02d813.css.map": "/ReactTextUtilsApp/static/css/main.9d02d813.css.map",
-    "main.d1d88b80.js.map": "/ReactTextUtilsApp/static/js/main.d1d88b80.js.map",
+    "main.e70a47f4.js.map": "/ReactTextUtilsApp/static/js/main.e70a47f4.js.map",
     "453.d85580f4.chunk.js.map": "/ReactTextUtilsApp/static/js/453.d85580f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d02d813.css",
-    "static/js/main.d1d88b80.js"
+    "static/js/main.e70a47f4.js"
   ]
 }
